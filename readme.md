@@ -1,21 +1,19 @@
-# This is a large heading
+# This is my Blog
 
-## This is a smaller heading
+## José L. Marrugo
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+This is an **example** of a text written by myself 
+where I practiced my skills, my *github* skills.
+## **Index**
+- This is the first element
+- Second
+- The last one
 
-- This is
-- an unordered
-- list
+1. Learning
+2. Relationships
+3. VideoGames
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
+Here is `some code 2+2` in the middle of a sentence.
 
 ```
 This is
@@ -27,4 +25,6 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
+nano README.md is how we create this before rendering it to HTML.
+
+Bye
